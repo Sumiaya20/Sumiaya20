@@ -10,6 +10,14 @@
    </h1>
 </div>
 
+[![wakatime](https://wakatime.com/badge/user/eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc.svg)](https://wakatime.com/@eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc)
+<p align="left"> 
+ <img src="https://komarev.com/ghpvc/?username=sumaiya20&label=Profile%20views&color=0e75b6&style=flat" alt="sumaiya20" /> 
+   
+</p>
+
+
+
 - 👋 Hi, I’m @Sumiaya Naznin
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning ...
